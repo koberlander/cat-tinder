@@ -18,5 +18,5 @@ Component
   - 'Container' vs 'Presentational' components
     - Container does something - hold state, hold other components, use lifecycles, maybe routes
     - Presentational take props and show them
-  - JSX
-    - React's syntax for rendering XML/component/JS code quickly
+JSX
+  - React's syntax for rendering XML/component/JS code quickly
